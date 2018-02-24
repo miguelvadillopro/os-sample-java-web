@@ -30,8 +30,9 @@
   <!-- Begin page content -->
   <main role="main" class="container">
     <h1 class="mt-5">Hello World!!</h1>
+    <h3>Sample Web App</h3>
     <!-- Insertar imagen aqui -->
-    
+
 
   </main>
                 
