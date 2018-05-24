@@ -32,6 +32,7 @@
     <h1 class="mt-5">Hello K8S!!</h1>
     <h3>Sample Web App</h3>
     <!-- Insertar imagen aqui -->
+    <img src="https://fanart.tv/fanart/music/29bb04d6-5602-464c-8577-f55a27511b27/hdmusiclogo/enslaved-506bf22e0bf31.png"></img>
 
 
   </main>
